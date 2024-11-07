@@ -75,8 +75,8 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="hidden lg:flex items-center">
-        <Button title="Login" size={24} onClick={()=>{}} />
-        <Button title="Register" size={24} color="white" onClick={()=>{}} />
+        <Button title="Login" size={20} onClick={()=>{}} />
+        <Button title="Register" size={20} color="white" onClick={()=>{}}  className="w-[129px] h-[42px]"/>
       </div>
       <HiOutlineMenuAlt4
         color=" white"
