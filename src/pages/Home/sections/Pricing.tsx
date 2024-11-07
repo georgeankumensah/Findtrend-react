@@ -13,7 +13,7 @@ const Pricing = () => {
         <label className="inline-flex items-center cursor-pointer">
           <span className="mr-3 text-sm  text-white lg:text-[24px] lg:font-[300]">Monthly</span>
           <input type="checkbox" value="" className="sr-only peer" />
-          <div className="relative w-11 h-6 lg:h-[52px] lg:w-[104px] bg-white peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-[#a7ff35ab]  rounded-full peer  peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[8px] after:start-[8px] after:bg-[#A8FF35] after:border-gray-300 after:border after:rounded-full after:h-[36px] after:w-[36px] after:transition-all  peer-checked:bg-[#b2f35eed]"></div>
+          <div className="relative w-11 h-6 lg:h-[52px] lg:w-[104px] bg-white peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-[#a7ff35ab]  rounded-full peer  peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] lg:after:top-[8px] lg:after:start-[8px] after:bg-[#A8FF35] after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 lg:after:h-[36px] lg:after:w-[36px] after:transition-all  peer-checked:bg-[#b2f35eed]"></div>
           <span className="ms-3 text-sm  text-[#c9c8c8]  lg:text-[24px] lg:font-[300]">
             Yearly
           </span>
